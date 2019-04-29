@@ -794,7 +794,7 @@ struct ImGuiTabBarRef
 // Main imgui context
 //-----------------------------------------------------------------------------
 
-struct ImGuiContext
+IMGUI_API struct ImGuiContext
 {
     bool                    Initialized;
     bool                    FrameScopeActive;                   // Set by NewFrame(), cleared by EndFrame()

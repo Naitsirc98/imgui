@@ -1,6 +1,8 @@
 ﻿  imgui.cpp
-  imgui_demo.cpp
+g:\visualstudioprojects\vortex game engine\vortex\third-party\imgui\imgui_internal.h(1107): warning C4091: '__declspec(dllexport)': ignored on left of 'ImGuiContext' when no variable is declared
   imgui_draw.cpp
+g:\visualstudioprojects\vortex game engine\vortex\third-party\imgui\imgui_internal.h(1107): warning C4091: '__declspec(dllexport)': ignored on left of 'ImGuiContext' when no variable is declared
   imgui_widgets.cpp
+g:\visualstudioprojects\vortex game engine\vortex\third-party\imgui\imgui_internal.h(1107): warning C4091: '__declspec(dllexport)': ignored on left of 'ImGuiContext' when no variable is declared
   Generating Code...
   ImGui.vcxproj -> G:\VisualStudioProjects\Vortex Game Engine\Vortex\third-party\ImGui\bin\Debug-windows-x86_64ImGui\ImGui.lib
